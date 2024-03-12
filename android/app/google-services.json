@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587934422956",
+    "project_id": "emailpasswordauth-97281",
+    "storage_bucket": "emailpasswordauth-97281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587934422956:android:30eaf4ea8a37fb07f2cc09",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDuIKcDWnxxS96Sv9gRSkAyd2swgs8yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
